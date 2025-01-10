@@ -1,6 +1,4 @@
-Hey, I'm Hiago! Welcome to my profile! 😁
+Hey, I'm Hiago! I'm a Full-Stack developer! 😁
 
-About me
-I'm a Pleno FullStack Developer with height years of expericence in Web Applications.
-I have an advanced English. 🥳
+One day I'll have a description for this Bio..
 
